@@ -1,0 +1,13 @@
+{
+	"server":{
+		"host":"",
+		"port":""
+	},
+	"client": {
+		"api":"",
+		"key":"",
+		"applicationServerPublicKey":"12345",
+		"endpoints":[],
+		"userUpdateEndpoint":"http://okb-osx:5015"
+	}
+}
