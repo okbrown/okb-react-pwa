@@ -8,6 +8,6 @@
 		"key":"",
 		"applicationServerPublicKey":"12345",
 		"endpoints":[],
-		"userUpdateEndpoint":"http://okb-osx:5015"
+		"userUpdateEndpoint":""
 	}
 }
